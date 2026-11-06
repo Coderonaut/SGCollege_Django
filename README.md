@@ -420,7 +420,7 @@ mycollege/screenshots/
 ### Step 1: Clone the Repository
 
 ```bash
-gh repo clone Coderonaut08spacesci/SGCollege_Django SGCollege
+gh repo clone Coderonaut/SGCollege_Django SGCollege
 ```
 
 Move into the repository:
